@@ -20,6 +20,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj",
-    "icon": "./static/libs/ks0308.png"
+    "preferredEditor": "tsprj"
 }
