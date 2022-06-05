@@ -1,6 +1,6 @@
 Motor Driver for Keyestudio KS0308.
 
-Note that the A HBridge is backward from their documentation as they assume one motor is turned over and I don'take
+Note that the A HBridge is backward from their documentation as they assume one motor is turned over and I don't
 
 > Open this page at [https://johnfflanagan.github.io/ptx-ks0308/](https://johnfflanagan.github.io/ptx-ks0308/)
 
